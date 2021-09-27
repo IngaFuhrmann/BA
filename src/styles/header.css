@@ -1,0 +1,81 @@
+.header {
+   grid-column: 3;
+   grid-row: 1/ span 2;
+   width: 100%;
+   height: 100%;
+   overflow: hidden;
+   background: linear-gradient(90deg, rgba(39,112,188,1) 10%, rgba(32,48,64,1) 100%);
+    display: flex;
+    flex-direction: row;
+}
+
+.textForHeader{
+    margin-top: 5%;
+    margin-left: 5%;
+    width: 40%;
+    height: 40%;
+}
+.boldText {
+    color: white;
+    width: 98%;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 3.3vh;
+}
+
+.normalText {
+    color: white;
+    width: 98%;
+    font-size: 14px;
+    line-height: 3.3vh;
+    
+}
+.wrapper {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: -15%;
+    width: 60em;
+    height: 30em;
+
+}
+
+svg {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+svg .country:hover {
+    fill: #d043ee;
+    stroke-width: 0.5px;
+    cursor: pointer;
+    
+}
+svg.country:focus {
+    fill: #d043ee;
+}
+.mapSelect{ 
+    margin-bottom: 10%;
+    margin-left: 2%;
+    width: 20%;
+    background-color: #203040;
+    color: white;
+    outline: white;
+    
+
+}
+.mapSelect option {
+    color: white;
+}
+
+.GeoWrappping {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    width: 100%;
+    overflow: hidden;
+    margin-right:-17%!important;
+}
+
+.textBack {
+    width: 10%;
+}

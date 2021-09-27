@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BA-App/static/css/main.2e31cf5f.chunk.css",
+    "main.js": "/BA-App/static/js/main.875094de.chunk.js",
+    "main.js.map": "/BA-App/static/js/main.875094de.chunk.js.map",
+    "runtime-main.js": "/BA-App/static/js/runtime-main.53b309bc.js",
+    "runtime-main.js.map": "/BA-App/static/js/runtime-main.53b309bc.js.map",
+    "static/js/2.e06eea32.chunk.js": "/BA-App/static/js/2.e06eea32.chunk.js",
+    "static/js/2.e06eea32.chunk.js.map": "/BA-App/static/js/2.e06eea32.chunk.js.map",
+    "index.html": "/BA-App/index.html",
+    "precache-manifest.8a3ef08546a2aa2b04c2da1c0263a1e5.js": "/BA-App/precache-manifest.8a3ef08546a2aa2b04c2da1c0263a1e5.js",
+    "service-worker.js": "/BA-App/service-worker.js",
+    "static/css/main.2e31cf5f.chunk.css.map": "/BA-App/static/css/main.2e31cf5f.chunk.css.map",
+    "static/js/2.e06eea32.chunk.js.LICENSE": "/BA-App/static/js/2.e06eea32.chunk.js.LICENSE",
+    "static/media/logo.png": "/BA-App/static/media/logo.04e4725b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53b309bc.js",
+    "static/js/2.e06eea32.chunk.js",
+    "static/css/main.2e31cf5f.chunk.css",
+    "static/js/main.875094de.chunk.js"
+  ]
+}
